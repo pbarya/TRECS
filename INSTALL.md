@@ -17,7 +17,7 @@ move the folder without renaming it in the same folder where the T-RECS code fol
 
 TRECS  TRECS_Inputs
 
-2) check that you have a fortran compiler and these libraries are installed: GSL, Lapack, Healpix, cfitsio
+2) check that you have a fortran compiler and these libraries are installed: GSL, Lapack, Healpix (compiled with shared/dynamic library option ticked), cfitsio
 
 3) edit  sampler/Makefile and  wrapper/Makefile with your paths and compiler options
 
